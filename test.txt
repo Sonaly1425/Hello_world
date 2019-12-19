@@ -1,0 +1,2 @@
+Test automation can easily execute thousands of different complex test cases during every
+test run providing coverage that is impossible with manual tests.
